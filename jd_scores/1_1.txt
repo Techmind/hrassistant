@@ -1,0 +1,12 @@
+{
+  "need_cv": false,
+  "questions": [
+    "The role seems to require detailed product documentation which the candidate dislikes. How critical is this aspect of the role?",
+     "The role requires 'holding workshops, training, and presentations' which is against the candidate's preferences. Could you clarify how frequent/critical are these activities?",
+      "The candidate dislike repetitive work but it is not clear what kind of product analysis tasks are there, do those product analysis tasks involve manual work?",
+        "Candidate have preference for ML/AI startups, and position have AI aspects but seems more geared towards B2B, does company have AI core for products?",
+        "The candidate likes to have clear processes, can you provide details on product processes? How well defined and stable are they?"
+        ],
+  "reasoning": "The job description aligns with the candidate's preference for working with AI-based products and B2B SaaS. The candidate enjoys marketing optimization and analytics, which is relevant to the position. However, there are some areas of concern. The role involves significant documentation, presentations, and workshops, which the candidate dislikes. The job does involve the AI aspect, but seems a bit too corporate for candidate preferences, and the role itself seems a little bit too much traditional PM role than the candidate likes. The candidate must also be a good fit for the company culture, which requires additional clarification, as some parts of the role do not align well with the candidate's preferences and it is not clear how flexible the company in that.",
+  "score": 6
+}

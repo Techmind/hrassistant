@@ -1,0 +1,12 @@
+{
+  "need_cv": true,
+  "questions": [
+    "What is the salary range for this position?",
+    "Could you elaborate on the level of autonomy expected in this role?",
+    "Is there a well-defined vision and strategy for achieving goals within the company?",
+    "Is there a mentorship program or access to a supportive boss available for discussion and guidance?",
+    "How established are the product processes, and how frequently do they change?"
+  ],
+  "reasoning": "The job description aligns in some areas with the candidate's preferences, particularly regarding project execution, identifying improvements, and communication. The company provides good benefits, but some potential conflicts exist. The candidate dislikes repetitive work and abstract strategic discussions, while the job requires managing projects and maintaining documentation. Relocation package, mindfulness webinars, corporate discounts on Coursera, fair salary >= 4500 EUR or 4500$ for month and other compensations are great bonuses. Because I lack information about the salary I can't give more than 5, because it looks like a good match, but because of lack of information, I can't rate it higher.",
+  "score": 5
+}

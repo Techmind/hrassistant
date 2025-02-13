@@ -1,0 +1,5 @@
+{
+  "need_cv": false,
+  "reasoning": "The job description aligns well with the candidate's preferences and strengths. The role focuses on monetization, premium features, and driving subscription growth, fitting the candidate's interest in acquisition, onboarding, and activation. The candidate's skills in data analysis, marketing optimization, and experimentation are directly applicable. The role also provides autonomy and a focus on experimentation, which are 'must-haves' for the candidate. The company's mission and SaaS nature also align with the candidate's market fit. The candidate might dislike sprint management, however, that is unavoidable. The company looks like a good fit, now it's required to check CV.",
+  "score": 7
+}

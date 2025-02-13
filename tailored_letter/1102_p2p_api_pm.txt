@@ -1,0 +1,18 @@
+[Your Name]
+[Your Contact Information]
+
+[Date]
+
+Hiring Manager
+P2P.org
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Product Manager (API) position at P2P.org. With 5 years of product management experience and 10+ years as a developer, including experience with B2B SaaS platforms and REST APIs, I am confident I can drive the growth and optimization of your API products.
+
+In my previous role at C Teleport, I implemented debt control dashboards that recovered 500k EUR of overdue debts, demonstrating my ability to improve key business metrics. At Superjob.ru, I led integrations, growing user acquisition by 11% through REST API integrations.
+
+I am eager to leverage my skills to enhance P2P.org's API performance, reliability, and scalability. Thank you for your time and consideration.
+
+Sincerely,
+Ilya Bogunov

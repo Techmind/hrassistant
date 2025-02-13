@@ -1,0 +1,3 @@
+Please tailor CV to the JD, highlight relevant experience with bold. 
+Remove irrelevant experience or squash it together into 1 paragraph.
+Return tailored resume in markdown format.

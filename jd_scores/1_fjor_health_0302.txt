@@ -1,0 +1,8 @@
+{
+  "need_cv": true,
+  "questions": [
+    "Could you please provide your CV or a link to your LinkedIn profile?"
+  ],
+  "reasoning": "The job description requires a senior level of experience (5+ years) in product growth and monetization. The candidate has relevant experiences in data analysis, funnel optimization, and a general understanding of product management, but a CV is required to properly assess their experience. The job responsibilities seem like a good fit, but team management might be an issue (the candidate does not like managing a team, but does not hate it either). The candidate is looking for a clear vision and strategy and it's not clear from the job description if such a thing exists in this company. The company culture seems like a good fit for the candidate.",
+  "score": 6
+}

@@ -1,0 +1,10 @@
+{
+  "need_cv": false,
+  "questions": [
+    "What is the size of the company?",
+    "How big is the team?",
+     "Is it a SME focused company?"
+    ],
+  "reasoning": "The job description seems like a decent fit for the candidate's preferences, especially with the focus on AI products and customer interaction. However, the job description mentions some things the candidate doesn't like such as creation of User Manuals, Functional Specifications, UAT Documents, Fulfilling RFI/RFPs, and a lot of presentations. The job seems to include a lot of documentation and presentations which are stated as something he hates. The need for a lot of documentation and collaboration can create a problem with the candidate's preference for autonomy, also the company is not defined as SME/B2B, the candidate might also dislike the finance/banking domain. Clarification is needed to assess fit further before giving a final score.",
+  "score": 6
+}

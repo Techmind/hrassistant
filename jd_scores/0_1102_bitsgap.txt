@@ -1,0 +1,6 @@
+{
+  "need_cv": false,
+  "questions": [],
+  "reasoning": "The job description aligns reasonably well with the candidate's preferences and skills. The focus on website optimization, content management, and marketing aligns with the candidate's experience in marketing optimization and data analysis. The role's emphasis on improving website metrics resonates with the candidate's outcome-driven approach and love for data analysis. The request for the candidate to have experience with an audience of traders makes this job more focused toward Crypto niche, which might be a signal that role focuses more on the vision and less on pure growth tasks. \n\nHowever, some aspects may not be ideal. The salary range (1800-3000 EUR) is significantly below the candidate's minimum acceptable threshold (4500 EUR/USD), which is a strong negative. The candidate dislikes repetitive work and creating presentations. While the description does not explicitly require those, content management could be considered repetitive. Also it requires fluency in English and experience with US/Europe market. \n\nGiven the very low compensation and good alignment with the candidate's profile I am giving the score 5 out of 10.",
+  "score": 5
+}

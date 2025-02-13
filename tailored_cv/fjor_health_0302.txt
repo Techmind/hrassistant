@@ -1,0 +1,61 @@
+# Ilya Bogunov
+Serbia • +381 (63) 181-90-47• bogunov@gmail.com • linkedin.com/in/bogunovilya
+
+**Product Leader - Growth & Monetization**
+
+Experienced Product Leader with a proven track record of driving growth and monetization through data-driven experimentation and strategic initiatives. Expertise in optimizing conversion rates, increasing user acquisition, and boosting key metrics such as C1, ARPU, and LTV. Skilled in leading cross-functional teams and implementing revenue-generating tactics. Proficient in leveraging AI tools to enhance product development and experimentation.
+
+## WORK EXPERIENCE
+
+**C Teleport** • Netherlands, Remote • 11/2023 – 01/2025
+Product Manager for B2B Saas Travel Platform
+
+*   Increased revenue by +1% by adding a subscription-based revenue model to increase the LTV of low-usage customers
+*   **Implemented debt control dashboards** to export accounting information to Sales/CS, which helped recover 500k EUR of overdue debts
+*   Implemented a credit line system, limiting the amount of bad debts and improving cash flow
+*   Removed top-1 reason for aircrew customer churn (highlighted by 25% of clients) by enabling automatic refunds for credit cards
+
+**Stat4market** • Remote • 02/2023 - 06/2023
+Product manager at B2B Saas marketplace analytics service (for sellers). Responsible for user acquisition, onboarding & integrating with marketing tools & services.
+
+*   **Grew registrations by 35%** by optimizing landing pages and adding new services based on keyword analysis and conversion data analysis
+*   Lead to 2x increase in sales webinar visits due to reminders (sales from webinar have higher average check)
+*   **Increased conversion rate by 5%** from the registration page due to redesigning and adding additional blocks informed by user behavior, heatmap & competitor analysis
+*   **Increased by 15% first session time** due to menu redesign and minor fixes to onboarding, guided by drop-off metrics.
+
+**Superjob.ru** • Moscow, Russia, Hybrid • 08/2020 – 02/2023
+Product manager at HR-Tech company (similar to indeed), responsible for organic user acquisition channels (SEO, integrations). Worked with 2 products: internal c2c "services" marketplace and was responsible for organic user acquisition in job board.
+
+*   **Led to 25% growth of new users YoY** (from ~5 million unique visitors/month into ~7.5 million/month)
+*   **Grew user acquisition by 11%** and brought 11% more registrations by adding search engine feed integrations (REST API, XML)
+*   **Raised conversion rate in 10%-30% range** to target actions Implemented various UX improvements (search list optimizations, UX redesign of vacancy pages, ... ) to improve target actions (registration/job responses) running tens of a/b-tests
+*   Brought additional traffic from search engines in range of 2k/month-20/k month by implementing new services for applicants like city salary pages, and various tax & vacation calculators, based on competitor and keyword research
+
+**SpacePush/Clickscloud** • Moscow, Hybrid • 05/2019 – 11/2019
+Teaser ad network (adtech saas) & push ad network. Worked on optimizing ad-bidder and UX to increase spending.
+
+*   **Increased revenue from "test" inventory (~10-20% of traffic) by 2,5 times** using multi-armed bandit testing method
+*   **Increased revenue by 3% from acquisition channels**
+*   Implemented better ad price recommendations to raise LTV and monthly spending by 2,2%
+
+**SmarterQueue** • Remote • 04/2017 - 05/2019
+Remote contract work to develop SaaS SMM platform, fully managing the design and implementation of features. (for USA/Canada/UK market).
+
+*   **Increased adoption by 16%** through new features like RSS imports, video/GIF upload, and calendar view, enhancing user engagement and satisfaction.
+*   **Boosted platform engagement by 12%** with UX improvements, leading to a reduction in churn rate and increased user retention.
+*   **Raised registration conversion rates by 3%** through Hotjar-driven UX insights and chatbot implementation for targeted customer support and segmentation.
+*  **Built and optimized Amplitude dashboards for a/b testing & overviews**, enabling faster access to key data insights and reducing analysis & decision-making time for cross-functional teams.
+
+**Previous Experience**
+Early career included roles at Revenviews (Team lead, Founding Member) , Badoo/Bumble (Software Developer, Infrastructure Team (dashboards/platform)), and various companies as a Software Developer/Team Lead/Deputy CTO. Responsibilities included team management, infrastructure setup, prototyping, and developing scalable platform components.
+
+## EDUCATION
+**Master's degree in Information Systems and Technology (Computer Science)**
+Ulyanovsk State Technical University • 01/2004 - 12/2009
+
+## CERTIFICATIONS
+**Generative Al for Product Managers – Mini Simulator** • 08/2024 •  GoPractice, Inc
+**GoPractice: Simulator for Learning Data-Driven Product Management** • 11/2019 •  GoPractice, Inc
+
+## SKILLS
+A/B Testing, Agile, AI, Analytical Skills, API, Conversion Rate Optimization, Cross-functional Collaboration, Data Analysis (SQL, Amplitude, Metabase), Experimentation, Funnel Development, Growth Strategy, Leadership, Monetization, Product Analytics, Product Management, SEO, SaaS, User Acquisition, UX.

@@ -1,0 +1,10 @@
+{
+  "need_cv": true,
+  "questions": [
+    "What is the salary range you are targeting for this role?",
+    "Are you comfortable with leading a team, specifically in the context of product growth and monetization?",
+    "The role requires executing 50+ high-impact growth experiments per quarter. Does this align with your preferred pace of work and ability to manage multiple projects simultaneously?"
+  ],
+  "reasoning": "The job description aligns well with the candidate's self-reflection, particularly the focus on data-driven experiments, funnel development, and improving key metrics like C1, ARPU, and LTV. The candidate's experience with SQL, Amplitude, and Metabase is also a good fit for the requirements. The company size (16 people) and remote work environment also seem to align with the candidate's preferences. \n\nHowever, there are some points that need clarification:\n\n1.  **Team Leadership:** The candidate's self-reflection doesn't explicitly mention team leadership experience. The job description requires building and leading a high-performing team.\n2.  **Experimentation Pace:** The job requires executing 50+ high-impact growth experiments per quarter. This is a high pace, and it's important to ensure the candidate is comfortable with this.\n3.  **Salary Expectations:** The job description mentions 'attractive compensation,' but it's important to confirm if the candidate's salary expectations align with the company's budget.\n\nI need to see the candidate's CV to assess their experience in leading teams and their overall fit for the role. Based on the information provided and the missing details, I'll assign a preliminary score.",
+  "score": 7
+}

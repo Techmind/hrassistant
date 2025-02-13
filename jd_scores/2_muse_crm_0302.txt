@@ -1,0 +1,8 @@
+{
+  "need_cv": true,
+  "questions": [
+    "Could you please provide your CV to assess your qualifications more precisely?",
+     "The job mentions CRM tools (Bloomreach, CDP, Mailtrain) - can you provide a details of your previous experience with similar tools? How hands-on were you?"
+  ],
+   "reasoning": "The job description seems like a decent fit for the candidate's profile based on the self-reflection, which indicates interest in activation/onboarding metrics and experience with A/B testing, hypothesis validation. Job's focus on CRM, data and analytics also aligns. However, a deeper look at practical CRM experience using a CV is required to access job fit. Also, the job mentions several CRM tools, more details about experience using such tools needs to be checked."
+}

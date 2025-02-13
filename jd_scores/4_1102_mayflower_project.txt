@@ -1,0 +1,9 @@
+{
+  "need_cv": true,
+  "questions": [
+    "What is the salary range for this position?",
+    "Please provide more detail on the types of projects the candidate would be managing."
+  ],
+  "reasoning": "Based on the job description provided, this role seems to be a decent fit at best. However, it is hard to estimate the fit without a CV. The candidate dislikes breaking down stories into tasks, managing dependencies, and delivery-related work, but the Project Manager role seems to require it. Candidate also dislikes repetitive work but the role requires project documentation and status reports which is a lot of repetitive work. Also, the candidate dislikes strategy & vision, and presentations, but those might be required as well. The candidate's strengths include an analytical mindset, data analysis skills & eye for detail, marketing experience, collaborative & helpful nature, and technical background, but there is no use of those skills in job description itself. The job description mentions a focus on Agile, Scrum, and Kanban methodologies. It does align with the candidate's need for clear vision & goals and defined processes. However, the lack of specific project details and salary range makes it difficult to determine a precise score. Also, the candidate needs a mentor, but it's impossible to confirm if there is one.",
+  "score": 5
+}

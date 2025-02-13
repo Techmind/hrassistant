@@ -1,0 +1,4 @@
+{
+  "reasoning": "This role appears to be a good fit based on the job description and the candidate's self-reflection. The company is a post-product-market-fit B2B SaaS company, aligned with the candidate's preference for SME-focused organizations. The role emphasizes product management, autonomy, and impact, which the candidate seeks. The focus on AI and video creation aligns with the candidate's interest in ML/AI and experience in marketing optimization, which aligns with the candidate's previous products. The candidate should be able to work with video AI platform easily and use data driven appoach.",
+  "score": 8.0
+}

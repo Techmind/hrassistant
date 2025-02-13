@@ -1,0 +1,6 @@
+{
+  "need_cv": false,
+  "questions": [],
+  "reasoning": "The role of Project Manager does not seem like a good fit for the candidate. The candidate dislikes breaking down stories into tasks, managing dependencies, and delivery-related work, while the job description emphasizes planning, executing, and overseeing projects, which involve those tasks. Additionally, the candidate is not enthusiastic about strategy and vision discussions, while the PM role involves developing and maintaining project documentation and facilitating team events. The candidate dislikes repetitive work, and this role could involve repetitive tasks. The job does offer some positives - there's a clear structure of tasks, language proficiency, and the compensation is probably acceptable (but still need to know numbers for a good estimate). Finally, the 'equipped office in the center of the city' might signify lack of hybrid work options, and candidate prefers hybrid work.",
+  "score": 3
+}

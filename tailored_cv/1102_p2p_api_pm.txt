@@ -1,0 +1,71 @@
+# Ilya Bogunov
+Serbia • +381 (63) 181-90-47• bogunov@gmail.com • linkedin.com/in/bogunovilya
+
+**Product Manager (API)**
+
+Experienced Product Manager with a strong technical background and a proven track record of **managing and scaling API products**.  Demonstrated ability to **drive API performance, reliability, and scalability**,  conduct market research, and collaborate with cross-functional teams to align product development with business objectives. 
+
+## WORK EXPERIENCE
+
+**C Teleport** • Netherlands, Remote • 11/2023 – 01/2025
+Product Manager for B2B Saas Travel Platform (selling tickets & hotel bookings). Responsible for Billing (& Backoffice). Managed stakeholder's expectations (sales/finances/support), streamlined and automated invoice & payment matching processes, and worked as business analysis for accounting domain.
+
+**Product Manager**
+*   Implemented debt control dashboards to export accounting information to Sales/CS, which helped recover 500k EUR of overdue debts
+*   Implemented a credit line system, limiting the amount of bad debts and improving cash flow
+*   Removed top-1 reason for aircrew customer churn (highlighted by 25% of clients) by enabling automatic refunds for credit cards
+*   Increased revenue by +1% by adding a subscription-based revenue model to increase the LTV of low-usage customers
+
+**Superjob.ru** • Moscow, Russia, Hybrid • 08/2020 – 02/2023
+Product manager at HR-Tech company (similar to indeed), responsible for organic user acquisition channels (SEO, integrations). Worked with 2 products: internal c2c "services" marketplace and was responsible for organic user acquisition in job board.
+
+**Product Manager**
+*   Grew user acquisition by 11% and brought 11% more registrations by adding **search engine feed integrations (REST API, XML)**
+*   Raised conversion rate in 10%-30% range to target actions Implemented various UX improvements (search list optimizations, UX redesign of vacancy pages, ... ) to improve target actions (registration/job responses) running tens of a/b-tests
+*   Brought additional traffic from search engines in range of 2k/month-20/k month by implementing new services for applicants like city salary pages, and various tax & vacation calculators, based on competitor and keyword research
+
+**SpacePush/Clickscloud** • Moscow, Hybrid • 05/2019 – 11/2019
+Teaser ad network (adtech saas) & push ad network. Worked on optimizing ad-bidder and UX to increase spending.
+
+**Product Manager**
+*   Increased revenue from "test" inventory (~10-20% of traffic) by 2,5 times using multi-armed bandit testing method
+*   Increased revenue by 3% from acquisition channels
+*   Implemented better ad price recommendations to raise LTV and monthly spending by 2,2%
+
+**SmarterQueue** • Remote • 04/2017 - 05/2019
+Remote contract work to develop SaaS SMM platform, fully managing the design and implementation of features. (for USA/Canada/UK market).
+
+**Product Analyst/Product Manager**
+*   Increased adoption by 16% through new features like RSS imports, video/GIF upload, and calendar view, enhancing user engagement and satisfaction.
+
+**Revenviews** • Israel, Remote • 01/2015 - 10/2016
+A first employee for a video content tracking start-up. Working with international studios using subscription business model to use fingerprinting to find users from tube sites. Pivoted to video content management & distribution system.
+
+**Team lead, Founding Member**
+*   Hired initial team
+*   Set up of infrastructure (Cl, jira, git, dev & production servers)
+*   Prototyped and implemented first project from initial idea to final implementation
+*   Created data-aggregation, reporting & caching systems
+
+**Badoo/Bumble** • 04/2013 - 10/2014
+Worked at Badoo (dating site/app), which later acquired & renamed itself to Bumble as part of platform team: supporting infrastructure, communicating with devops & c/go-daemon developers, bulding scalable services, implementing monitoring, managing cross data-center data syncs, etc. Working on robustness, security, speed & usage optimization.
+
+**Software Developer, Infrastructure Team (dashboards/platform)**
+*   Developed scalable platform components, including **APIs** and service wrappers, to support infrastructure resilience and scalability.
+
+**Stat4market** • Remote • 02/2023 - 06/2023
+Product manager at B2B Saas marketplace analytics service (for sellers). Responsible for user acquisition, onboarding & integrating with marketing tools & services. Key achievements include growing registrations by 35%, increasing sales webinar visits by 2x, and improving the registration page conversion rate by 5% through optimization based on user behavior analysis.
+
+**Different companies** • 09/2007 - 03/2013
+Prior to 2013, I served as a Software Developer and Team Lead/Deputy CTO in various companies. Responsibilities included managing development teams, infrastructure, sales team consulting, and release management.
+
+## EDUCATION
+**Master's degree in Information Systems and Technology (Computer Science)**
+Ulyanovsk State Technical University • 01/2004 - 12/2009
+
+## CERTIFICATIONS
+**Generative Al for Product Managers – Mini Simulator** • 08/2024 •  GoPractice, Inc
+**GoPractice: Simulator for Learning Data-Driven Product Management** • 11/2019 •  GoPractice, Inc
+
+## SKILLS
+A/B Testing, Agile, **API**, B2B, Data Analysis, Databases, English, Git, JIRA,  Market Research, Product Analytics, Product Design, Product Management, Project Management, Python, REST, SaaS, Software Development, SQL,  UX, Web Analytics, Web Development.  **Familiarity with Ethereum and blockchain technologies (from personal learning and research - happy to elaborate).**

@@ -1,0 +1,5 @@
+This is CV. 
+Score it according to JD on 0-10 scale, explains youself.
+Write down details how score was calculated. 
+Produce one final "general score" as average of sub-scores of matching to diffrent requirements.
+---

@@ -1,0 +1,10 @@
+{
+  "need_cv": true,
+  "questions": [
+    "What is the salary range for this position?",
+    "Could you describe the company's culture in more detail, specifically regarding the level of autonomy and opportunities for mentorship?",
+    "What is the company's vision and strategy? How are goals defined and communicated?"
+  ],
+  "reasoning": "The job description aligns well with the candidate's market fit, particularly the focus on B2B environments and a product lifecycle role. The responsibilities also align with the candidate's strengths in data analysis, UX prototyping, and marketing optimization. The requirement for strategic thinking and hands-on execution matches the candidate's capabilities. The preference for SaaS businesses and experience with product management methodologies are also a plus. However, the candidate's dislike for presentations might be a slight mismatch, though case study discussions are acceptable. The need for a clear vision and goals and a collaborative environment are also important factors for the candidate, which need further clarification. Since the salary is 'based on experience,' the fair pay requirement needs to be validated. The need for hybrid work also need to be validated.",
+  "score": 7
+}

@@ -1,0 +1,5 @@
+{
+  "need_cv": false,
+  "reasoning": "Based on the job description and the candidate's self-reflection, the job appears to be a potentially good fit. The role focuses on transitioning to an AI business workflow automation product, which aligns with the candidate's interest in AI. The responsibilities include product vision, strategy, and roadmap development, as well as user interviews and data analysis, which match the candidate's strengths. The company's focus on data-driven SaaS also aligns well. However, the role requires building and managing B2B document workflow products, which is an area where the candidate's expertise isn't explicitly stated, but it is close enough to the candidate's self-reflection.",
+  "score": 7
+}

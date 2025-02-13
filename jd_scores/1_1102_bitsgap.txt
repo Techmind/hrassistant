@@ -1,0 +1,4 @@
+{
+  "reasoning": "The job description aligns with the candidate's interest in acquisition/onboarding/activation through website optimization and content management. The focus on data-driven decisions and improving metrics also aligns with their strengths. However, several aspects raise concerns. The salary range is significantly below the candidate's minimum requirement. The role involves content writing and presentation, which they dislike. While the ad-tech is fine with the candidate, focus on crypto is not ideal. Candidate is not seeking a leadership position (CEO subordination).",
+  "score": 4.00
+}

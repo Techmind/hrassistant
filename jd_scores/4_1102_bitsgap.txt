@@ -1,0 +1,6 @@
+{
+  "need_cv": false,
+  "questions": [],
+  "reasoning": "The job description aligns with the candidate's preference for a B2C or SME-focused B2B SaaS company and interest in acquisition/onboarding/activation. The focus on website improvement and marketing optimization matches the candidate's love for marketing optimization, data analysis, and UX/prototyping. The requirement for experience in a crypto SaaS project with an audience of traders aligns with the candidate's preference for roles within analytical tools related industry. However, the salary range is too low, and the description includes some repetitive tasks and documentation work that the candidate dislikes. Also, candidate's experience with traffic is not specified in document. Lack of ML/AI direction is not helping either. Given the low salary, the absence of 'great pay' bonus does not apply.",
+  "score": 5
+}

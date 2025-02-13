@@ -1,0 +1,12 @@
+{
+  "need_cv": true,
+  "questions": [
+    "The job description mentions familiarity with web development processes and investment services. Could you elaborate on your experience with these areas? What specific web development technologies and financial regulations are you familiar with?",
+    "The role involves defining product roadmaps and conducting market analysis. How do you typically approach these tasks, and can you provide an example of a successful product roadmap you've developed?",
+    "The job requires managing product lifecycles from concept to end-of-life. Can you describe your experience with each stage of the product lifecycle and how you ensure alignment with strategic goals?",
+    "The description emphasizes the importance of clear communication and leadership. Can you describe how have you championed the voice of the customer in product design and development, ensuring that products meet customer needs and exceed expectations?",
+    "The job description mentions that candidate should to conduct market and competitor research to inform product decisions and maintain a competitive edge. Can you describe how have you champion the voice of the customer in product design and development, ensuring that products meet customer needs and exceed expectations? "
+  ],
+  "reasoning": "Based on the job description, the role requires defining product strategies, managing product lifecycles, and collaborating with cross-functional teams. The candidate's self-reflection mentions strengths in data analysis, marketing optimization, and a technical background, which aligns well with the requirements. However, the candidate expresses a dislike for strategy and vision, as well as presentations, which are important aspects of a Product Manager role, indicating a potential mismatch. The candidate does enjoy working with end-users, which is a huge benefit. The job involves working with finances which candidate does not mention in his experiences or preferences.",
+  "score": 6
+}

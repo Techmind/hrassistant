@@ -1,0 +1,10 @@
+{
+  "need_cv": true,
+  "questions": [
+    "Could you provide your CV?",
+    "The job description requires experience in building and leading a team specializing in product growth and monetization. Could you please specify your experience in managing such team?"
+  ],
+    "reasoning": "The job description seems like a good fit for the candidate based on their self-reflection. The candidate's preference for analytical roles focused on data analysis, experimentation, and growth aligns well with the requirements. The description emphasizes improving C1, ARPU, and LTV, which is aligned with the candidate's interest in marketing optimization and data-driven decisions. The must-haves such as autonomy, experimentation, and a clear vision seem to be in line with the company's approach. However, there is no information about the candidate's experience in leading a team which is essential in this role, so CV is needed and it's better to double check on team leadership experience. Also, the job description clearly asks for a CV or a link to LinkedIn. Based on the provided information, a preliminary score would be a 7, which might be increased or decreased depending on experience and CV."
+  ,
+  "score": 7
+}

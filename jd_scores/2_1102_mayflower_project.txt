@@ -1,0 +1,6 @@
+{
+  "need_cv": false,
+  "questions": [],
+  "reasoning": "The job title is Project Manager, which is not the candidate's preferred role of Product/Technical Product Management. However, several aspects of the role align well with the candidate's strengths and preferences. The job emphasizes project execution using Agile methodologies, collaboration with team leads, and process improvement, all of which align with the candidate's experience. The candidate has experience with Jira, Confluence and Slack, and advanced skills in them are seen as a plus. The candidate is looking for a hybrid/remote work. The job mentions flexibility for a hybrid work model, if possible. The job description doesn't specifically state mentorship availability or clarity of vision and goals, which are 'must-haves' for the candidate, lowering the score a bit. Also this is not ML/AI company, which is preferable by candidate. But, on the other hand, the company seems to avoid micromanagement and vague mission/vision. Finally, the company offers relocation to Cyprus with visa and family support, white salary, medical insurance, compensation, and other 'must-haves'. Considering the mix of positive and negative matches, I'd rate this as a moderate fit.",
+  "score": 6
+}

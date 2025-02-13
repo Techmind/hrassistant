@@ -1,0 +1,6 @@
+{
+  "need_cv": false,
+  "questions": [],
+  "reasoning": "This role seems to align well with the candidate's profile. The focus on API products, particularly in the crypto/Ethereum space, fits with their interest in analytical tools and emerging technologies. The requirement for API development and optimization aligns with their analytical mindset and data analysis skills. The B2B focus is also a good fit. However, the candidate dislikes presentations and strategic discussions, which might be required in this role. Given the preference for ML/AI is just a bonus here, and the strong focus on data/analytics/B2B - this looks like a good fit. Must-haves like 'clear vision', 'autonomy', 'fair compensation' and 'stimulating tasks' sounds like something offered here.",
+  "score": 8
+}

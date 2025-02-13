@@ -1,0 +1,4 @@
+{
+  "reasoning": "Based on the job description and the candidate's self-reflection, this role appears to be a potentially good fit. The candidate is looking for a B2C company post product market fit, with a focus on acquisition/onboarding/activation, which aligns with Findmykids' goals. The candidate also enjoys data analysis, marketing optimization, and UX prototyping, which are all relevant to the role. The company's culture of experimentation and continuous development also aligns with the candidate's preferences.\n\nHowever, the role involves backlog management and project reporting, which the candidate dislikes. Also, the candidate's weakness is self-doubt on unfamiliar fields. Also, salary is unknown (if it is >= 6000 EUR or 6000 USD it could increase score by 1 point).",
+  "score": 7.0
+}
