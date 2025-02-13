@@ -1,9 +1,0 @@
-{
-  "need_cv": false,
-  "questions": [
-    "The job description mentions 'interest or experience in the photo-video industry', is this something you have?",
-     "You mentioned a preference for ML/AI startups. Is your ML/AI experience sufficient for the 'Expertise in mobile technologies, AI/ML trends, and technical experience to contribute to complex technological solutions' requirement of this job?"
-  ],
-    "reasoning": "The job description aligns well with the candidate's preference for B2C product management focusing on growth, retention and monetization. The candidate's stated love for data analysis, A/B testing, and funnel optimization are a great fit with the job responsibilities. However, the job requires strong experience in mobile apps and AI/ML, and this requires clarifications from candidate. Candidate's preferences for data-driven approach, experimentation, and a collaborative environment align well with the job description as well. There is also a potential conflict with documentation, but given 'diagrams/whiteboards' and overall focus on experiments and fast iterations is not critical. There are also great bonuses with mentorship and clear process that will offset mentioned in weaknesses section 'self doubt'. The location and company look fine for candidate preferences.",
-  "score": 7
-}

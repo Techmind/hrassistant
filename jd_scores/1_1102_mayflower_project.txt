@@ -1,5 +1,0 @@
-{
-  "need_cv": false,
-  "reasoning": "The job description of a Project Manager aligns poorly with the candidate's stated preferences and skills. The candidate dislikes delivery management, repetitive tasks, and creating presentations, which are all significant aspects of a project manager role. While they possess analytical and communication skills, the role emphasizes areas they actively avoid. Furthermore, the candidate seeks autonomy and the opportunity for experimentation, which may not be fully available in a project management role focused on overseeing and executing predefined plans.",
-  "score": 3
-}

@@ -1,5 +1,0 @@
-{
-  "need_cv": false,
-  "reasoning": "The job description aligns well with the candidate's preferences for a Product Management role focused on monetization and growth within a SaaS company. The responsibilities include enhancing premium features, driving conversions, reducing churn, and optimizing monetization touch-points, all of which align with the candidate's stated interests and skills in data & product analysis, marketing optimization, and outcome-driven decision-making. The requirement for A/B testing and data-driven decisions fits well with their analytical mindset and data analysis skills. The role also appears to offer autonomy in product decisions, a must-have for the candidate. The company size and industry (cybersecurity education) seem like a reasonable fit, especially considering the focus on SME/B2B SaaS or B2C companies.  The hate for presentations might be a slight issue with the need to 'promote premium value'. Overall, it's a strong match.",
-  "score": 8
-}

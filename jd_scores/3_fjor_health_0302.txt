@@ -1,5 +1,0 @@
-{
-  "need_cv": false,
-  "reasoning": "Based on the job description, this role seems like a solid fit for the candidate. The candidate's self-reflection indicates a strong interest and skills in data analysis, marketing optimization, and experimentation, which align well with the responsibilities of driving growth product strategy, leading data-driven experiments, and developing new funnels. The candidate's preference for a small to medium-sized company focused on analytics in the consumer health space aligns perfectly with Fjor's description. The must-haves of autonomy, clear vision, stimulating tasks, experimentation, and defined processes appear to be met by the job description. The use of SQL, Amplitude and Metabase are a bonus. \n\nThe hate-doing aspects of the candidate are unlikely to be a problem for this role.\n\nConsidering that the candidate likes AI-related startups this is a good bonus, finally fair pay is provided.\n\nThe candidate is seeking for product/technical product management position, this role is head of product growth which might be a problem and I can't estimate this without CV and talking to candidate.",
-  "score": 7
-}

@@ -1,5 +1,0 @@
-{
-  "need_cv": false,
-  "reasoning": "The job description aligns well with the candidate's preferences. It's a B2B SaaS product, and the focus on AI workflow automation is a strong match, and the company size is a good fit (more than 20 and less than 500). The candidate's self-reflection indicates a desire for product roles with a focus on acquisition, onboarding, and activation, which resonates with the responsibilities mentioned. The candidate's strengths in analytical thinking and data analysis align well with the need to identify and automate workflows. However, the salary range is slightly lower than the candidate's preference for \"great pay\" (>$6000/month), so it's unlikely to add extra score for it. Candidate should like autonomy (100% Remote and Location Independent Work), Data-Driven decision. Candidate has a strong analytical skills, focus on root-cause analysis and systems thinking - as mentioned in strengths.",
-  "score": 8
-}

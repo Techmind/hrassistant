@@ -1,8 +1,0 @@
-{
-  "need_cv": true,
-  "questions": [
-    "What salary range are you targeting?"
-  ],
-  "reasoning": "The job description aligns well with the candidate's preferences for a B2B environment, product lifecycle ownership, and data-driven decision-making. The focus on customer feedback and cross-functional collaboration also fits the candidate's strengths. The remote work environment with in-person meetups and the company's adaptation of methodologies also suit the candidate's needs. However, salary is not specified in the job description, so i need to ask the candidate about it.",
-  "score": 7
-}

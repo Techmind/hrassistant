@@ -1,6 +1,0 @@
-{
-  "need_cv": false,
-  "questions": [],
-  "reasoning": "The job description aligns with the candidate's preference for a B2C/SME-focused company in an analytical tools related industry (crypto niche). The tasks involve data analysis, marketing optimization (improving website metrics), and UX & prototyping (developing layouts), which the candidate enjoys. The role also requires working with content management, SEO, and website promotion, aligning with the candidate's marketing experience. The focus on website improvement and conversion rate optimization matches the candidate's strengths. \n\nHowever, there are some potential downsides. The salary is in EUR and below candidate preferneces, but a great pay could give +1 score. The candidate dislikes documentation, and while the job description does involve rewriting articles, it's not solely for formality. Also the candidate dislikes repetative work, but SEO and content creation could become one. The candidate dislikes working on strategy & vision, but this is more related to the marketing department. Also there is no information about mentorship, experimentations, defined product processes, sense of community, clear vision & goals.\n\nConsidering the alignment with the candidate's strengths and preferences, but also the potential downsides, I'll give it a score of 6.",
-  "score": 6
-}

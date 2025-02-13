@@ -1,4 +1,0 @@
-{
-  "reasoning": "This job seems like a very good fit for the candidate. The role focuses on monetization and growth within a B2C mobile app, which aligns with the candidate's interest in acquisition/onboarding/activation in a B2C company and experience with marketing optimization. The focus on data analysis, A/B testing, and UX research also matches the candidate's strengths. The 'must-haves' like a stimulating task and experimentation also seem fulfilled. The flexible work arrangement is also a plus. The salary is not specified, so there will be some additional questions about it.",
-  "score": 8.0
-}

@@ -1,5 +1,0 @@
-{
-  "need_cv": true,
-  "reasoning": "The job description aligns well with the candidate's preference for product management roles focused on growth and optimization, particularly in the mobile app space. The responsibilities, such as defining product strategy, conducting market research, and analyzing KPIs, align with the candidate's strengths in data analysis and outcome-driven decision-making. The offer of remote work and influence on product development is also a good match. However, the lack of detail regarding the company's size and industry makes a definitive assessment difficult without further information, hence the 'need_cv' flag.",
-  "score": 7
-}

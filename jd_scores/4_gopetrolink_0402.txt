@@ -1,5 +1,0 @@
-{
-  "need_cv": true,
-  "reasoning": "The job description requires experience in financial or investment-related projects, which isn't explicitly mentioned in the candidate's self-reflection. The role also involves managing the product lifecycle and defining product roadmaps, which aligns with the candidate's skills. However, the candidate dislikes repetitive work and may find some aspects of financial regulations and compliance requirements tedious. Therefore, the fit seems moderate but requires a CV to confirm",
-  "score": 6
-}

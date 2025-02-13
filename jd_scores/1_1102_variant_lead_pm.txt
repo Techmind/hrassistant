@@ -1,5 +1,0 @@
-{
-  "need_cv": false,
-  "reasoning": "The job description aligns well with the candidate's preference for a B2B SaaS company, particularly in the document management/AI workflow automation space, which fits the analytical tools industry. The focus on product vision, strategy, and roadmap development, along with identifying automation workflows, aligns with the candidate's skills in data analysis and outcome-driven decision-making. The candidate's strength in marketing optimization is relevant for creating compelling messaging. \n\nThe company's remote work environment and results-oriented approach are also positives for the candidate. The salary range meets the candidate's minimum requirement for fair pay. However, the candidate dislikes presentations, but creating compelling messaging mitigates the score here, since it's not a presentation-heavy role. \n\nHowever, the candidate should provide CV to check expertise in product management, B2B and AI, plus SaaS.",
-  "score": 8.0
-}

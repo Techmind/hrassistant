@@ -1,5 +1,0 @@
-{
-  "need_cv": false,
-  "reasoning": "The job description aligns well with the candidate's preferences. It's a Product Manager role focused on monetization within a SaaS product, which fits the candidate's stated interest in acquisition/onboarding/activation in a B2B SaaS context. The role involves data analysis, A/B testing, and collaboration, which are all areas the candidate enjoys. \n\nThe size of TryHackMe aligns with the candidate's preference for small-to-medium-sized companies. Also, this is a great fit with self-reflection details and candidate is most likely will love this job. They can also use marketing expirience here.\n\nHowever, the absence of specific details about the tech stack and analytical tools used at TryHackMe makes it difficult to assess how well the candidate's SQL, Metabase, and Amplitude skills align. The job description also emphasizes subscription dynamics and pricing strategies, which while related, aren't explicitly called out as a strength of candidate. Also, candidate prefers ML/AI related topics - this job is about cybersecurity, that can be fine, or not.",
-  "score": 8
-}
